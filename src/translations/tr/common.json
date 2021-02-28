@@ -1,0 +1,5 @@
+{
+    "welcome": {
+        "title": "{{project.name}}'e hoşgeldin,  {{user.name}} !"      
+    }
+}
